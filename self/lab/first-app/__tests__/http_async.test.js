@@ -1,5 +1,5 @@
 import { jest, describe, expect, test, beforeEach } from '@jest/globals';
-import { getActivity } from './http_async';
+import { getActivity } from '../http_async';
 import axios from 'axios';
 
 

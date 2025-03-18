@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@aws-sdk/client-ssm": "^3.735.0",
     "axios": "^1.7.9"
   },
   "type": "module",
